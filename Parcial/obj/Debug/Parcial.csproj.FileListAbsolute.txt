@@ -1,0 +1,10 @@
+D:\CuartetoParcial\Parcial\Parcial\bin\Debug\Parcial.exe.config
+D:\CuartetoParcial\Parcial\Parcial\bin\Debug\Parcial.exe
+D:\CuartetoParcial\Parcial\Parcial\bin\Debug\Parcial.pdb
+D:\CuartetoParcial\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+D:\CuartetoParcial\Parcial\Parcial\obj\Debug\Parcial.Form1.resources
+D:\CuartetoParcial\Parcial\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+D:\CuartetoParcial\Parcial\Parcial\obj\Debug\Parcial.csproj.GenerateResource.cache
+D:\CuartetoParcial\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+D:\CuartetoParcial\Parcial\Parcial\obj\Debug\Parcial.exe
+D:\CuartetoParcial\Parcial\Parcial\obj\Debug\Parcial.pdb
